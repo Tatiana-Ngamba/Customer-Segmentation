@@ -30,3 +30,6 @@ in the Customer Segmentation Report. This report will serve as a valuable resour
 My work will contribute to helping the markerting firm gain a deeper understanding of consumers behaviours. 
 By providing data-driven insights, we will enable the markerting firm to make informed decisions and adapt their strategies to 
 effectively respond to the dynamic economic and social landscape.
+
+### The SQL code to analyse the customers data can be found here:
+- [Customer Segmentation](https://github.com/Tatiana-Ngamba/Customer-Segmentation/blob/main/Customer_Segmentation_Report.sql)
